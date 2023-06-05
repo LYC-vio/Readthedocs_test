@@ -28,3 +28,11 @@ Contents
    notebooks/PCA_with_cats
 
 Must have an empty line between caption and the folloing content!
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Notebooks maxdepth 2:
+   
+   notebooks/PCA_with_cats
+
+for more about table of contents, see here: https://github.com/readthedocs/readthedocs.org/blob/0957dacd8045b9d31a7676218948c5213eca3d23/docs/user/index.rst
