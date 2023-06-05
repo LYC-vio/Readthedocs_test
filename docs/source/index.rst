@@ -20,3 +20,9 @@ Contents
    usage
    api
    notebooks/PCA_with_cats
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   notebooks/PCA_with_cats
