@@ -19,10 +19,12 @@ Contents
 .. toctree::
    usage
    api
-   notebooks/PCA_with_cats
+   Markdown test
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Notebooks:
    
    notebooks/PCA_with_cats
+
+Must have an empty line between caption and the folloing content!
