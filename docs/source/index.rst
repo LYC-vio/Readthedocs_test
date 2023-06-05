@@ -17,9 +17,12 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 1
    usage
    api
    Markdown test
-   notebooks/PCA_with_cats
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Notebooks:
+   notebooks/PCA_with_cats
