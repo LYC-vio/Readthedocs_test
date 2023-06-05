@@ -2,6 +2,7 @@
 
 #Additional notes:
 # https://github.com/K3D-tools/K3D-jupyter/issues/164
+# https://nbsphinx.readthedocs.io/en/0.3.3/usage.html#Automatic-Creation-of-HTML-and-PDF-output-on-readthedocs.org
 
 # -- Project information
 
