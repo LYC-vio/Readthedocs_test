@@ -23,5 +23,5 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Notebooks:
+   :caption: Contents:
    notebooks/PCA_with_cats
