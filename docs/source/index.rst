@@ -19,9 +19,9 @@ Contents
 .. toctree::
    usage
    api
-   Markdown test
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   Markdown test
    notebooks/PCA_with_cats
