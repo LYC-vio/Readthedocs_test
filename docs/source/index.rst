@@ -23,5 +23,4 @@ Contents
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   Markdown test
    notebooks/PCA_with_cats
