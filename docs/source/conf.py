@@ -1,5 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
+#Additional notes:
+# https://github.com/K3D-tools/K3D-jupyter/issues/164
+
 # -- Project information
 
 project = 'Lumache'
