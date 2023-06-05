@@ -20,5 +20,6 @@ Contents
 
    usage
    api
+   Markdown test
    notebooks/PCA_with_cats
 
