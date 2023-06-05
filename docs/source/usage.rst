@@ -31,9 +31,3 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   notebooks/PCA_with_cats
