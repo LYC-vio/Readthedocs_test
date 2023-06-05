@@ -6,9 +6,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Test Readthedocs'
+copyright = 'None'
+author = 'Yichen'
 
 release = '0.1'
 version = '0.1.0'
